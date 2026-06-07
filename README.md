@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Sunny Horizons Community Board
 
-Submitted by: **Your Name Here**
+Submitted by: **Joseph Ghormley**
 
-This web app: **insert description**
+This web app: **A Minecraft server community board for the Sunny Horizons Network. The page helps players find important server resources such as the starter guide, warps, economy, guilds, land claiming, server events, and other survival systems.**
 
 Time spent: **X** hours spent in total
 
@@ -13,10 +13,9 @@ The following **required** functionality is completed:
 - [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
   - [x] Header/title describing the theme is displayed
 - [x] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [x] There are at least 10 cards displayed for 10 different events 
+  - [x] There are at least 10 cards displayed for 10 different events
   - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
   - [x] Each card should include some information about the event or resource
-
 
 The following **optional** features are implemented:
 
@@ -24,7 +23,7 @@ The following **optional** features are implemented:
   - [x] All cards have buttons or links in addition to text
 - [x] The site is responsive for both desktop and mobile formats
   - [x] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
+  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format.
 
 The following **additional** features are implemented:
 
@@ -33,26 +32,16 @@ The following **additional** features are implemented:
 * [x] Used reusable React card components with props.
 * [x] Added hover effects to the cards.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with **ScreenToGif**
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 One challenge was replacing the default Vite starter template with a custom React layout. Another challenge was keeping the project focused on the bootcamp requirements instead of building the full Sunny Horizons wiki page. I kept the first version simple by using a reusable card component and a responsive CSS grid.
 
 ## License
@@ -61,12 +50,3 @@ One challenge was replacing the default Vite starter template with a custom Reac
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
